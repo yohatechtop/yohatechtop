@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yohannes+Zerihun;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Ethiopia , AA</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Laravel, PHP , Also teching kids how to program**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AlpineJs, Vue, React**
 
 💬 Ask me about **HTML, Css , PHP , Laravel... or anything [here](https://github.com/yohatechtop/yohatechtop/issues)**
 
@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:johnpro3269@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/codewithyoha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://yohatechtop.github.io" target="_blank">
@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yohatechtop/yohatechtop/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yohatechtop/yohatechtop/output/snake.svg" />
+
   
   <br/><br/><br/>
 </div>
@@ -56,21 +57,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-yohatechtop.vercel.app/?user=yohatechtop&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-yohatechtop.vercel.app/api?username=yohatechtop&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img 
+    width="390" 
+    src="https://github-readme-streak-stats.vercel.app/?user=yohatechtop&count_private=true&theme=react&border_radius=10" 
+    alt="streak stats"
+  />
+  <img 
+    width="390" 
+    src="https://github-readme-stats.vercel.app/api?username=yohatechtop&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="readme stats" 
+  />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-yohatechtop.vercel.app/api/top-langs/?username=yohatechtop&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img 
+    width="325" 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohatechtop&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+    alt="top langs" 
+  />
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
