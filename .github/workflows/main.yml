@@ -1,16 +1,15 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch: # Allows you to run the workflow manually
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual triggers
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -19,9 +18,9 @@ jobs:
           github_user_name: yohatechtop
           outputs: dist/snake.svg
 
-      - name: Push Snake
-        uses: github-actions-x/commit@v2
+      - name: Upload to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          commit_message: "Generated Snake Animation"
-          branch: output
-          file_path: dist/snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
