@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: yohatechtop
-          outputs: dist/snake.svg
+          output: dist/snake.svg # Fixed: Use `output` instead of `outputs`
 
       - name: Upload to Output Branch
         uses: peaceiris/actions-gh-pages@v3
