@@ -40,9 +40,9 @@ http://yoha.great-site.net/?i=1
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,livewire,jquery" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,jquery" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,cpp,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
 </div>
 
 <br/>
