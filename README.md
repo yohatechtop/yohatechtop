@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yohatechtop.yohatechtop" />
-Portifolio coming soon on realy domain
-For this is template of my website.
+my Portifolio website coming soon on realy domain <br>
+For this is template of my website. <br>
 http://yoha.great-site.net/?i=1
 
 <h1 align="center">
